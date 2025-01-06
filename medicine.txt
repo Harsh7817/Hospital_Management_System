@@ -1,0 +1,6 @@
+Peracetamol,15
+Dolo650,35
+Ors,20
+Coughsyrup,120
+abcd,20
+crocin,80

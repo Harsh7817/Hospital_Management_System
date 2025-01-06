@@ -1,0 +1,6 @@
+Bed ID,Ward Type,Occupied,Patient Name,Condition
+786,Emergency,No,,N/A
+801,General,Yes,Sam,Stable
+920,Emergency,No,,N/A
+2341,ICU,No,,N/A
+82091,Emergency,No,,N/A
